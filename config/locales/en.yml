@@ -1,19 +1,16 @@
 en:
-  hello: "Hello world"
-  about: "ABout"
-  contact: "COntact"
   static_pages:
     home:
-      signup: "Signup Now"
-      welcome_app: "Welcome to the Sample App"
-      this_home_page: "This is the home page for the"
-      ruby_rails_tut: "Ruby on Rails Tutorial"
-      sample_app: "sample application."
+      signup_home: "Signup Now"
+      welcome_app_home: "Welcome to the Sample App"
+      this_home_page_home: "This is the home page for the"
+      ruby_rails_tut_home: "Ruby on Rails Tutorial"
+      sample_app_home: "sample application."
     contact:
-      contact: "Contact"
-      contact_the_ruby: "Contact the Ruby on Rails Tutorial about the
+      contact_contact: "Contact"
+      contact_the_ruby_contact: "Contact the Ruby on Rails Tutorial about the
          sample app at the"
-      contact_page: "contact page"
+      contact_page_contact: "contact page"
     help:
       get_help: "Get help on the Ruby on Rails Tutorial at the"
       rails_tut_help: "Rails Tutorial help section"
@@ -23,18 +20,19 @@ en:
 
   layouts:
     footer:
-      rails_tut: "Ruby on Rails Tutorial"
-      michael_hartl: "Michael Hartl"
-      news: "News"
+      rails_tut_footer: "Ruby on Rails Tutorial"
+      michael_hartl_footer: "Michael Hartl"
+      news_footer_footer: "News"
+      about_footer: "About"
+      contact_footer: Contact"
 
-  helpers:
-    application_helper:
-      rails_tut_sample_app: "Ruby on Rails Tutorial Sample App"
-
-  layouts:
     header:
-      sample: "sample app"
-      home: "Home"
-      help: "Help"
-      login: "Login Now"
+      sample_header: "sample app"
+      home_header: "Home"
+      help_header: "Help"
+      login_header: "Login Now"
 
+  users:
+    new:
+      signup_new: "Sign up"
+      will_signup_new: "This will be a signup page for new users."
