@@ -5,4 +5,4 @@
 # Examples:
 #
 
-#   Character.create(name: 'Luke', movie: movies.first)
+#   Character.create(name: "Luke", movie: movies.first)
